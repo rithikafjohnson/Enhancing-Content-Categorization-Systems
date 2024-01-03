@@ -6,7 +6,7 @@ The core of the methodology lies in the integration of diverse datasets, which p
 The finetuning process using the generated prompts after retrieval enhances the language model's ability to discern and predict content categories accurately. Through a comparative analysis under various integration scenarios, the research sheds light on the advancements facilitated by the LaMP architecture in personalized news categorization.
 In summary, this research establishes a robust methodology for personalized news categorization, providing valuable insights into the intricate interplay between diverse datasets, retrieval algorithms, and language models. This contribution significantly advances the field of tailored content recommendation systems, paving the way for more effective and personalized user experiences.
 
-For a detailed explanation read the file "Enhancing Content Categorization Systems: A Comparative Study of Integrated Diverse Datasets"
+For a detailed explanation read the file "646 final project report"
 
 
 
